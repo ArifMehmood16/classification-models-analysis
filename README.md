@@ -6,8 +6,11 @@ In this project, I implemented and evaluated various machine-learning techniques
 Key Tasks:
 
 *Data Exploration: Conducted an in-depth dataset exploration to gain insights and understand its characteristics.
+
 *Data Pre-processing: Performed necessary pre-processing steps such as handling missing values, encoding categorical variables, and scaling numerical features.
+
 *Machine Learning Method Selection and Implementation: Selected appropriate machine learning algorithms and implemented them to model the data effectively.
+
 *Model Performance Evaluation: Evaluated the performance of the implemented models using appropriate metrics and techniques to assess their effectiveness.
 
 Additionally, a concise report was written summarizing the work and providing an analysis and discussion of the results. The report is approximately 1000 words long (excluding tables and figures) and has a maximum of five pages, including tables and figures.
